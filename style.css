@@ -1,0 +1,20 @@
+.box{
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    font-size: 40px;
+}
+.bt{
+  border-radius: 15px 0px 15px 0px;
+  background-color: cadetblue;
+  color: white;
+}
+.bt9 button{
+  padding: 15px 35px;
+  background-color: yellow;
+}
+.hover button:hover {
+  display: inline-block;
+  background-color: yellowgreen;
+}
